@@ -307,8 +307,8 @@ export default function DarijaSprint() {
           <header className="hero-header">
             <div className="hero-header__text">
               <div className="hero-header__eyebrow">Premium Darija learning experience</div>
-              <h1 className="hero-header__title">DARIJA SPRINT</h1>
-              <p className="hero-header__subtitle">30 Days to Marrakech Fluency — a cinematic, modern learning space with polished motion, glass surfaces, and premium focus states.</p>
+              <h1 className="hero-header__title">DARIJA FOR  FARHANA</h1>
+              <p className="hero-header__subtitle">30 Days to Darija Fluency</p>
             </div>
             <div className="points-badge">
               <span className="points-badge__label">Progress</span>
